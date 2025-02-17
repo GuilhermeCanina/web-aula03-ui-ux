@@ -2,8 +2,6 @@
 
 Este projeto é composto por três desafios focados na exibição de informações de produtos, utilizando HTML, CSS e JavaScript. O objetivo é criar uma interface responsiva e interativa que permita exibir os produtos de formas diferentes, como em cards ou lista, proporcionando uma experiência de usuário agradável.
 
-## Desafio 01 - Cards
-
 ### Objetivo:
 Renderizar em uma página HTML as informações de produtos em **cards**.
 
